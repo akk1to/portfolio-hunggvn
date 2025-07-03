@@ -284,7 +284,7 @@ export default function Portfolio() {
               title="Hungg's Basement"
               description="Hungg's Basement is where everyone can hang out with each other online!"
               tags={["discord.gg/hunggvn"]}
-              image="https://upload.cdn.akk1to.is-a.dev/content/project2.png"
+              image="https://upload.cdn.akk1to.is-a.dev/content/hunggdiscord.png"
               demoUrl="http://discord.gg/hunggvn"
               repoUrl="Discord"
             />
